@@ -72,7 +72,7 @@
     {"id":"9016","name":"ABC15 Phoenix","description":"ABC Phoenix Local News 24/7","url":"https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8","category":"LOCAL"},
     {"id":"9049","name":"KGUN Tucson","description":"ABC Tucson Local News 24/7","url":"https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8","category":"LOCAL"},
     {"id":"9044","name":"KOAT Albuquerque","description":"ABC Albuquerque Local News 24/7","url":"https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8","category":"LOCAL"},
-    {"id":"9017","name":"13 Action News Las Vegas","description":"NBC Las Vegas Local News 24/7","url":"https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8","category":"LOCAL"},
+    {"id":"9017","name":"13 Action News Las Vegas","description":"ABC Las Vegas Local News 24/7","url":"https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8","category":"LOCAL"},
     {"id":"9029","name":"KTVB Boise","description":"NBC Idaho Local News 24/7","url":"https://livevideo.tegnadigital.com/ktvb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KTVB/elvs/live.m3u8","category":"LOCAL"},
     {"id":"9011","name":"ABC10 Sacramento","description":"ABC Sacramento Local News 24/7","url":"https://livevideo.tegnadigital.com/kxtv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KXTV/elvs/live.m3u8","category":"LOCAL"},
     {"id":"9052","name":"FOX 2 San Francisco","description":"San Francisco CA","url":"https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8","category":"LOCAL"},
