@@ -34,7 +34,6 @@
     {"id":"1009","name":"OAN","description":"One America News Network Live","url":"https://oneamericanews-roku-us.amagi.tv/playlist.m3u8","source_url":"https://www.oann.com","category":"OPINION"},
     {"id":"1010","name":"The Young Turks","description":"TYT Network Live 24/7","url":"https://tyt-samsungus.amagi.tv/playlist.m3u8","source_url":"https://tyt.com","category":"OPINION"},
     {"id":"1011","name":"The First TV","description":"Conservative news, opinion and commentary — live US political coverage and analysis.","url":"https://thefirst-oando.amagi.tv/playlist.m3u8","source_url":"https://www.thefirsttv.com","category":"OPINION"},
-    {"id":"6001","name":"Telemundo","description":"Telemundo News Live","url":"https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8","source_url":"https://www.telemundo.com","category":"MULTILINGUAL"},
     {"id":"6004","name":"TVE Internacional","description":"Spanish International News","url":"https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8","source_url":"https://www.rtve.es","category":"MULTILINGUAL"},
     {"id":"6021","name":"Tagesschau24","description":"German News 24/7","url":"https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8","source_url":"https://www.tagesschau.de","category":"MULTILINGUAL"},
     {"id":"6051","name":"Al Jazeera Arabic","description":"Al Jazeera Arabic Live","url":"https://live-hls-web-aja.getaj.net/AJA/index.m3u8","source_url":"https://www.aljazeera.net","category":"MULTILINGUAL"},
