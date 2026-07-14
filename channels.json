@@ -92,6 +92,7 @@
     {"id":"9058","slug":"fox-13-seattle","name":"FOX 13 Seattle","description":"Seattle WA","url":"https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8","source_url":"https://www.fox13seattle.com","category":"LOCAL"},
     {"id":"9005","slug":"king-5-seattle","name":"KING 5 Seattle","description":"NBC Seattle Local News 24/7","url":"https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8","source_url":"https://www.king5.com","category":"LOCAL"},
     {"id":"9030","slug":"krem-spokane","name":"KREM Spokane","description":"CBS Spokane Local News 24/7","url":"https://livevideo.tegnadigital.com/krem/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KREM/elvs/live.m3u8","source_url":"https://www.krem.com","category":"LOCAL"},
-    {"id":"9025","slug":"kgw-portland","name":"KGW Portland","description":"NBC Portland Local News 24/7","url":"https://livevideo.tegnadigital.com/kgw/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KGW/elvs/live.m3u8","source_url":"https://www.kgw.com","category":"LOCAL"}
+    {"id":"9025","slug":"kgw-portland","name":"KGW Portland","description":"NBC Portland Local News 24/7","url":"https://livevideo.tegnadigital.com/kgw/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KGW/elvs/live.m3u8","source_url":"https://www.kgw.com","category":"LOCAL"},
+    {"id":"9065","slug":"hawaii-news-now","name":"Hawaii News Now","description":"Honolulu — Hawaii Local News 24/7","url":"https://dai.google.com/linear/hls/pa/event/fC7B3JnWTH6nwg3uR9vRDw/stream/69dd6eeb-19db-4e48-8f1c-abecd5b21eaa:CHS/variant/d3fda3034d9a0587785f5d057e8a384f/bandwidth/4776000.m3u8","source_url":"https://www.hawaiinewsnow.com","category":"LOCAL"}
   ]
 }
