@@ -1,6 +1,6 @@
 {
   "channels": [
-    {"id":"1001","slug":"abc-news-live","name":"ABC News Live","description":"ABC News 24/7 Live Stream","url":"https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8","source_url":"https://abcnews.go.com","category":"US_NEWS"},
+    {"id":"1001","slug":"abc-news-live","name":"ABC News Live","description":"ABC News 24/7 Live Stream","url":"https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8","source_url":"https://abcnews.go.com","category":"US_NEWS"},
     {"id":"1002","slug":"nbc-news-now","name":"NBC News Now","description":"NBC News 24/7 Live","url":"https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8","source_url":"https://www.nbcnews.com","category":"US_NEWS"},
     {"id":"1003","slug":"cbs-news-24-7","name":"CBS News 24/7","description":"CBS News 24/7 Streaming Network","url":"https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8","source_url":"https://www.cbsnews.com","category":"US_NEWS"},
     {"id":"1005","slug":"livenow-from-fox","name":"LiveNOW from FOX","description":"Live Breaking News from FOX","url":"https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8","source_url":"https://www.livenowfox.com","category":"US_NEWS"},
